@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Troque SEU_USUARIO pelo seu usuário do GitHub e ajuste os links -->
 
-<!--
-**joaopedrossousa/joaopedrossousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, eu sou o João Pedro 👋</h1>
+<p align="center">
+  Analista de TI • Estudante de Ciência da Computação • Foco em Backend (Python & Java)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mim
+
+- 💼 Analista de TI na **Produtécnica Agro**
+- 🎓 Cursando **Ciência da Computação** no CEULP/ULBRA (conclusão prevista: 02/2027)
+- 🌱 Migrando para **desenvolvimento backend** com Python e Java
+- 🛠️ Experiência com infraestrutura, suporte, monitoramento e redes
+- 📍 Palmas – TO
+
+---
+
+### 🚀 Stacks
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,mysql&theme=dark" />
+</p>
+
+**Infra & Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,bash,vscode&theme=dark" />
+</p>
+
+**Monitoramento & Dados**
+
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [nome-do-projeto](https://github.com/SEU_USUARIO/nome-do-projeto) | Breve descrição | Python |
+| [nome-do-projeto](https://github.com/SEU_USUARIO/nome-do-projeto) | Breve descrição | Java |
