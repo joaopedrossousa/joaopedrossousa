@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joaopedrossousati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jpsousa.ti@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,10 +15,10 @@
 ### 🧑‍💻 Sobre mim
 
 - 💼 Analista de TI na **Produtécnica Agro**
-- 🎓 Cursando **Ciência da Computação** no CEULP/ULBRA (conclusão prevista: 02/2027)
-- 🌱 Migrando para **desenvolvimento backend** com Python e Java
-- 🛠️ Experiência com infraestrutura, suporte, monitoramento e redes
-- 📍 Palmas – TO
+- 🎓 Cursando **Ciência da Computação** no CEULP/ULBRA 
+- 🌱 Migrando para **desenvolvimento backend** com Python, Java e TypeScript
+- 🛠️ Experiência com Infraestrutura, Suporte, Monitoramento e Redes
+
 
 ---
 
@@ -58,9 +58,4 @@
 
 ---
 
-### 📌 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [nome-do-projeto](https://github.com/SEU_USUARIO/nome-do-projeto) | Breve descrição | Python |
-| [nome-do-projeto](https://github.com/SEU_USUARIO/nome-do-projeto) | Breve descrição | Java |
