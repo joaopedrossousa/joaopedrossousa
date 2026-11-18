@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=800&color=E6EDF3&center=true&vCenter=true&width=520&lines=Jo%C3%A3o+Pedro;Backend+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+TypeScript;Infra+%E2%80%A2+Monitoramento+%E2%80%A2+Redes" alt="João Pedro" />
-
 <sub>Analista de TI na Produtécnica Agro · Ciência da Computação @ CEULP/ULBRA</sub>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/joaopedrossousati"><img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=E6EDF3" /></a>
-<a href="mailto:jpsousa.ti@gmail.com"><img src="https://img.shields.io/badge/email-161b22?style=flat-square&logo=gmail&logoColor=E6EDF3" /></a>
+<a href="https://www.linkedin.com/in/joaopedrossousati"><img src="https://img.shields.io/badge/Linkedin-161b22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRTZFREYzIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==" /></a>
+<a href="mailto:jpsousa.ti@gmail.com"><img src="https://img.shields.io/badge/E--mail-161b22?style=flat-square&logo=gmail&logoColor=E6EDF3" /></a>
 
 </div>
 
@@ -28,7 +26,7 @@ sobre:
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,bash,vscode&theme=dark&perline=6" />
 <br/><br/>
-<img src="https://img.shields.io/badge/zabbix-161b22?style=flat-square&logo=zabbix&logoColor=E6EDF3" />
+<img src="zabbix.svg" width="48" alt="Zabbix" />
 
 <br/><br/>
 
